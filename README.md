@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a programmer who interested in deep learning and reinforcement learning for desktop & mobile & web programming.
+I'm a programmer who interested in deep learning(voice, geo data, video, image, ...) and reinforcement learning for desktop & mobile & web programming.
 
 <!--
 **SungmanHong/SungmanHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
