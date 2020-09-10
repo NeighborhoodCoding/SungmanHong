@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a programmer who interested in deep learning and reinforcement learning for desktop & mobile & web programming.
 
 <!--
 **SungmanHong/SungmanHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Interests
 
+<p>
+  <a href="https://kotlinlang.org/">
+    <img src="https://img.shields.io/badge/Kotlin-F47810?logo=kotlin&logoColor=white">
+  </a>
+  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SungmanHong)](https://github.com/SungmanHong/github-readme-stats)
 
