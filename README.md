@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Interests
-
+Python, tensorflow, flutter
 <p>
   <a href="https://kotlinlang.org/">
     <img src="https://img.shields.io/badge/Kotlin-F47810?logo=kotlin&logoColor=white">
